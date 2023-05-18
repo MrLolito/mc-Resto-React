@@ -1,6 +1,9 @@
+<img src="C:\Users\lolog\OneDrive\Desktop\mc-Resto-React-REAL\resto-react\public\img\Captura.JPG" />
+
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
